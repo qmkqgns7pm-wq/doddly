@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy – Doddly</title>
+</head>
+<body>
+
+<h1>Privacy Policy di Doddly</h1>
+
+<p><strong>Ultimo aggiornamento:</strong> Luglio 2026</p>
+
+<p>L'utilizzo dell'app Doddly è regolato anche dai <a href="https://qmkqgns7pm-wq.github.io/doddly/terms.html">Termini e Condizioni d'Uso</a>. Ti invitiamo a leggerli attentamente insieme alla presente informativa sulla privacy.</p>
+
+<p>Doddly è un'applicazione progettata per aiutarti a monitorare la tua idratazione giornaliera attraverso un compagno virtuale (Doddly, una goccia d'acqua) che reagisce ai tuoi progressi. Doddly è costruita secondo il principio della minimizzazione dei dati: non richiede la creazione di un account e non raccoglie informazioni che possano identificarti personalmente.</p>
+
+<h2>1. Dati che NON raccogliamo</h2>
+<p>Doddly non raccoglie, non richiede e non memorizza:</p>
+<ul>
+<li>Nome, email o altri dati identificativi</li>
+<li>Dati di contatto</li>
+<li>Informazioni sulla posizione</li>
+<li>Dati sanitari trasmessi a terzi</li>
+<li>Dati finanziari</li>
+<li>Identificativi pubblicitari o di tracciamento</li>
+</ul>
+<p>L'app non richiede la creazione di un account e non collega alcuna informazione alla tua identità.</p>
+
+<h2>2. I tuoi dati di idratazione</h2>
+<p>Tutti i contenuti che inserisci — quantità d'acqua registrate, obiettivo giornaliero, unità di misura preferita (ml/oz), stato e progressi del tuo compagno virtuale, impostazioni di promemoria — sono archiviati <strong>esclusivamente sul tuo dispositivo</strong>. Questi dati non vengono mai inviati a noi né a terzi. Disinstallando l'app, questi dati vengono eliminati definitivamente.</p>
+
+<h2>3. Nessun servizio esterno</h2>
+<p>A differenza di altre nostre app, Doddly funziona <strong>interamente offline</strong>: non contatta alcun servizio esterno, non dispone di server remoti, non utilizza cache o sincronizzazione cloud di alcun tipo. Tutta la logica dell'app (calcolo dell'idratazione, stato del compagno, promemoria) viene eseguita localmente sul tuo dispositivo.</p>
+
+<h2>4. Permessi del dispositivo</h2>
+<p>L'app può richiedere il seguente permesso:</p>
+<ul>
+<li><strong>Notifiche</strong>: per i promemoria di idratazione, gestiti interamente in locale sul dispositivo. Nessuna notifica viene inviata tramite server esterni (push remote) — sono tutte pianificate localmente dall'app stessa.</li>
+</ul>
+<p>Puoi revocare questo permesso in qualsiasi momento dalle Impostazioni del sistema operativo, senza che ciò impedisca l'uso delle funzionalità principali dell'app.</p>
+
+<h2>5. Servizi di terze parti</h2>
+<p>Doddly non utilizza strumenti di analisi, pubblicità, tracciamento del comportamento dell'utente, né alcun SDK o libreria di terze parti per la raccolta dati.</p>
+
+<h2>6. Sicurezza</h2>
+<p>Poiché Doddly non invia dati su Internet e non dispone di server remoti, il rischio per la tua privacy è minimo: i tuoi dati non lasciano mai il tuo dispositivo.</p>
+
+<h2>7. Diritti dell'utente</h2>
+<p>In conformità al GDPR e normative simili, puoi in qualsiasi momento: revocare i permessi concessi all'app dalle Impostazioni del sistema operativo, ed eliminare tutti i tuoi dati disinstallando l'app.</p>
+
+<h2>8. Nota sulla natura dell'app</h2>
+<p>Doddly è uno strumento pensato per aiutarti a costruire l'abitudine di bere acqua regolarmente. <strong>Doddly non esprime consigli medici: è esclusivamente un indicatore personale di monitoraggio, non un dispositivo medico e non sostituisce il parere di un medico.</strong> Gli obiettivi di idratazione suggeriti in app sono indicativi e generici: se soffri di patologie che richiedono un controllo specifico dell'assunzione di liquidi (ad esempio problemi renali o cardiaci), consulta il tuo medico prima di seguire qualunque obiettivo impostato nell'app.</p>
+
+<h2>9. Modifiche a questa policy</h2>
+<p>Questa privacy policy può essere aggiornata in futuro, ad esempio in caso di nuove funzionalità. La versione più recente sarà sempre disponibile a questo indirizzo.</p>
+
+<h2>10. Contatti</h2>
+<p>Per qualsiasi domanda sulla privacy puoi contattare lo sviluppatore via email:</p>
+<p><strong>Email:</strong> domenicsteam@gmail.com<br>
+<strong>Sviluppatore:</strong> Domenico Sammarro</p>
+
+</body>
+</html>
